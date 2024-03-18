@@ -1,4 +1,4 @@
-<h1>Howdy 👋, I'm Colin</h1>
+<h1>Howdy 👋, my name's Colin!</h1>
 <h3>Data Scientist, Finance Newbie, and Jigsaw Puzzler</h3>
 
 
