@@ -1,5 +1,6 @@
-# Howdy 👋, I'm Colin
-## Data Scientist, Jigsaw Puzzler, and Terrible Chef
+<h1>Howdy 👋, I'm Colin</h1>
+<h3>Data Scientist, Jigsaw Puzzler, and Terrible Chef</h3>
+
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
