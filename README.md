@@ -1,5 +1,5 @@
-<h1 align="center">Howdy 👋, I'm Colin</h1>
-<h3 align="center">Data Scientist, Jigsaw Puzzler, and Terrible Chef</h3>
+# Howdy 👋, I'm Colin
+## Data Scientist, Jigsaw Puzzler, and Terrible Chef
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
