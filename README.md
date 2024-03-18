@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **fitness, finance, or programming**
 
-- 📫 How to reach me **colin.tyler.dao@gmail.com**
+- 📫 Reach me at **colin.tyler.dao@gmail.com**
 
 - ⚡ Fun fact: **I can eat a whole Costco pizza 🤤**
 
