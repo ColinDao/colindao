@@ -1,12 +1,12 @@
 <h1>Howdy 👋, I'm Colin</h1>
-<h3>Data Scientist, Jigsaw Puzzler, and Terrible Chef</h3>
+<h3>Data Scientist, Finance Newbie, and Jigsaw Puzzler</h3>
 
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ColinDao](https://github.com/ColinDao)
 
-- 💬 Ask me about **fitness, finance, or programming**
+- 💬 Ask me about **fitness, finance, puzzles, or programming**
 
 - 📫 Reach me at **colin.tyler.dao@gmail.com**
 
