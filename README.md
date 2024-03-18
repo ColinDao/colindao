@@ -2,15 +2,15 @@
 <h3>Data Scientist, Finance Newbie, and Jigsaw Puzzler</h3>
 
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning Data Science and Machine Learning
 
 - 👨‍💻 All of my projects are available at [https://github.com/ColinDao](https://github.com/ColinDao)
 
-- 💬 Ask me about **fitness, finance, puzzles, or programming**
+- 💬 Ask me about fitness, finance, puzzles, or programming
 
-- 📫 Reach me at **colin.tyler.dao@gmail.com**
+- 📫 Reach me at colin.tyler.dao@gmail.com
 
-- ⚡ Fun fact: **I can eat a whole Costco pizza (and some more) 🤤**
+- ⚡ Fun fact: I can eat a whole Costco pizza (and some more) 🤤
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
