@@ -10,7 +10,7 @@
 
 - 📫 Reach me at colin.tyler.dao@gmail.com
 
-- ⚡ Fun fact: I can eat a whole Costco pizza (and some more) 🤤
+- 🍕 Fun fact: I can eat a whole Costco pizza (and some more) 🤤
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
