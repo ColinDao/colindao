@@ -8,7 +8,7 @@
 
 - 💬 Ask me about fitness, finance, puzzles, or programming—I love anything that has to do with problem-solving!
 
-- 📫 Reach me at colin.tyler.dao@gmail.com or https://www.linkedin.com/in/colin-dao/
+- 📫 Reach me at colin.tyler.dao@gmail.com
 
 - 🥸 Fun facts: I can eat a whole Costco pizza (and some more) 🤤 and my favorite TV show is Gravity Falls 🌲
 
