@@ -10,7 +10,7 @@
 
 - 📫 Reach me at colin.tyler.dao@gmail.com or https://www.linkedin.com/in/colin-dao/
 
-- 🍕 Fun facts: I can eat a whole Costco pizza (and some more) 🤤 and my favorite TV show is Gravity Falls 🌲
+- 🥸 Fun facts: I can eat a whole Costco pizza (and some more) 🤤 and my favorite TV show is Gravity Falls 🌲
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
