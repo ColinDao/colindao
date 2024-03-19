@@ -2,15 +2,15 @@
 <h3>Data Scientist, Finance Newbie, and Jigsaw Puzzler</h3>
 
 
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 I’m currently learning Data Science and Machine Learning, mostly self-taught
 
-- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/ColinDao?tab=repositories) (my favorites include [What's That Sign Say?](github.com/ColinDao/sign) and [Your Move...](github.com/ColinDao/your-move))
+- 👨‍💻 My favorite personal projects include [What's That Sign Say?](github.com/ColinDao/sign) and [Your Move...](github.com/ColinDao/your-move) (more on my [my GitHub repositories](https://github.com/ColinDao?tab=repositories) 😉)
 
-- 💬 Ask me about fitness, finance, puzzles, or programming
+- 💬 Ask me about fitness, finance, puzzles, or programming—I love anything that has to do with problem-solving!
 
-- 📫 Reach me at colin.tyler.dao@gmail.com
+- 📫 Reach me at colin.tyler.dao@gmail.com or https://www.linkedin.com/in/colin-dao/
 
-- 🍕 Fun fact: I can eat a whole Costco pizza (and some more) 🤤
+- 🍕 Fun facts: I can eat a whole Costco pizza (and some more) 🤤 and my favorite TV show is Gravity Falls 🌲
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
