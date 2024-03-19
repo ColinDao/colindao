@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Data Science and Machine Learning
 
-- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/ColinDao?tab=repositories)
+- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/ColinDao?tab=repositories) (my favorites include[What's That Sign Say?](github.com/ColinDao/sign) and [Your Move...](github.com/ColinDao/your-move))
 
 - 💬 Ask me about fitness, finance, puzzles, or programming
 
