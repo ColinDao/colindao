@@ -6,7 +6,7 @@
 
 - 👨‍💻 My favorite personal projects include [What's That Sign Say?](github.com/ColinDao/sign) and [Your Move...](github.com/ColinDao/your-move) (more on my [my GitHub repositories](https://github.com/ColinDao?tab=repositories) 😉)
 
-- 💬 Ask me about fitness, finance, puzzles, or programming—I love anything that has to do with problem-solving!
+- 💬 Ask me about fitness, finance, puzzles, or programming. I love anything that has to do with problem-solving!
 
 - 📫 Reach me at colintdao@gmail.com
 
